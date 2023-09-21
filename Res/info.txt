@@ -1,0 +1,8 @@
+
+----------Stuffcraft---------
+
+This is a very simple Minecraft world clone
+
+Please view 'controls.txt for controls!
+
+--------Enter to start----------

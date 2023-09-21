@@ -20,6 +20,7 @@
 *.layout
 
 *[Bb]uild/
+*.vscode/
 
 *.css
 *.php.
